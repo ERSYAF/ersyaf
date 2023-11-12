@@ -1,7 +1,7 @@
 # Halo semua! 
 Perkenalkan nama saya **Era Syafina**.\
 Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/era-syafina-a2ba05276)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/era-syafina-a2ba05276)ku ya.
  
 <p align="left">
 <a href="https://github.com/gilangadhan">
