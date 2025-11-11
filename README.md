@@ -56,9 +56,9 @@ Saya antusias mengeksplorasi teknologi modern dan membangun aplikasi bermanfaat 
 
 ## 📊 GitHub Stats
 <p align="left">
-<a href="https://github.com/erasfafina">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=erasfafina&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erasfafina&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/ERSYAF">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erasfafina&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erasfafina&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -67,5 +67,5 @@ Saya antusias mengeksplorasi teknologi modern dan membangun aplikasi bermanfaat 
 ## 📫 Connect With Me  
 📍 Banda Aceh, Indonesia  
 🔗 **LinkedIn:** https://www.linkedin.com/in/era-syafina-a2ba05276  
-🐙 **GitHub:** https://github.com/erasfafina
+🐙 **GitHub:** https://github.com/ERSYAF
 
