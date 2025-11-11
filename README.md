@@ -1,3 +1,8 @@
+<!-- Banner / Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=5BB9BB&size=28&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Era+Syafina+👋;IT+Student+%7C+AI+Enthusiast+%7C+Web+Developer;Welcome+to+My+GitHub+Profile!">
+</p>
+
 # 👋 Hi, I'm **Era Syafina**
 
 🎓 *Information Technology Student at UIN Ar-Raniry*  
@@ -28,15 +33,6 @@ Saya antusias mengeksplorasi teknologi modern dan membangun aplikasi bermanfaat 
 
 ---
 
-## 📌 Current Projects
-- 🦟 **AI-Based Malaria Detection Web App** (CNN + Flask)  
-- 📰 **Fake News Detection using ML & AWS Comprehend**  
-- 📈 **Commodity Price Prediction (LSTM)**  
-- 🧠 **Expert System for Helpdesk (Forward Chaining)**  
-- 🎓 **Object Detection for Campus Attendance (AWS Rekognition)**
-
----
-
 ## 🛠 Tech Stack
 
 ### **Programming & ML**
@@ -64,8 +60,28 @@ Saya antusias mengeksplorasi teknologi modern dan membangun aplikasi bermanfaat 
 
 ---
 
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ERSYAF&theme=algolia&hide_border=false" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ERSYAF&theme=algolia&row=1&column=6" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/ERSYAF/ERSYAF/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 📫 Connect With Me  
 📍 Banda Aceh, Indonesia  
 🔗 **LinkedIn:** https://www.linkedin.com/in/era-syafina-a2ba05276  
 🐙 **GitHub:** https://github.com/ERSYAF
-
