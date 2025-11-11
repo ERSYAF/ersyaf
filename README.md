@@ -57,8 +57,8 @@ Saya antusias mengeksplorasi teknologi modern dan membangun aplikasi bermanfaat 
 ## 📊 GitHub Stats
 <p align="left">
 <a href="https://github.com/ERSYAF">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erasfafina&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erasfafina&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ERSYAF&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERSYAF&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
