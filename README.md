@@ -1,61 +1,59 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=5BB9BB&size=28&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Era+Syafina+👋;IT+Student+%7C+AI+Enthusiast+%7C+Web+Developer;Welcome+to+My+GitHub+Profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=5BB9BB&size=28&center=true&vCenter=true&width=700&lines=Hello,+I'm+Era+Syafina+👋;Fresh+Graduate+IT+%7C+AI+Enthusiast+%7C+Web+Developer;Welcome+to+My+GitHub+Profile!">
 </p>
 
-# 👋 Hi, I'm **Era Syafina**
+<h1 align="center">✨ Era Syafina — Fresh Graduate IT</h1>
 
-🎓 *Information Technology Student at UIN Ar-Raniry*  
-💡 *AI & Machine Learning Enthusiast | Web Developer | Cybersecurity Learner*  
-🌐 *Passionate about building tech solutions that make real impact*
+<p align="center">
+  Passionate about AI, Machine Learning, Web Development, and Cloud Computing 🌐  
+</p>
 
 ---
 
 ## 🚀 About Me
-Saya adalah seorang mahasiswa IT yang aktif mengembangkan berbagai proyek di bidang:
+Saya adalah seorang **Fresh Graduate Teknologi Informasi** dengan ketertarikan besar pada:
 
 - 🤖 **Artificial Intelligence & Machine Learning**  
   CNN, LSTM, text classification, object detection, AWS AI Services.
 
 - 🌐 **Web Development**  
-  Flask, HTML/CSS, WordPress customization, UI/UX exploration.
+  Flask, HTML/CSS, WordPress customization, UI/UX design.
 
 - 📊 **Data Analysis**  
-  EDA, time series, Winsorizing, model evaluation.
+  EDA, time series, preprocessing, winsorizing, model evaluation.
 
 - ☁️ **Cloud Computing**  
-  AWS (Rekognition, Comprehend, S3, Lambda), Azure ML.
+  AWS (Rekognition, Comprehend, S3, Lambda), Azure.
 
-- 🔐 **Cybersecurity (beginner level)**  
-  Basic network security & ethical hacking fundamentals.
+- 🔐 **Cybersecurity (basic)**  
+  Network security & ethical hacking fundamentals.
 
-Saya antusias mengeksplorasi teknologi modern dan membangun aplikasi bermanfaat berbasis AI dan cloud.
+Saya berfokus untuk mengembangkan aplikasi yang bermanfaat dan berimpact menggunakan teknologi modern berbasis AI.
 
 ---
 
 ## 🛠 Tech Stack
 
-### **Programming & ML**
+### ✅ **Programming & ML**
 `Python` · `TensorFlow` · `Keras` · `Scikit-learn` · `Numpy` · `Pandas`
 
-### **Web Development**
+### ✅ **Web Development**
 `HTML` · `CSS` · `Flask` · `WordPress`
 
-### **Cloud**
-`AWS` (S3, Rekognition, Comprehend, Lambda, EC2)  
+### ✅ **Cloud**
+`AWS` — S3 · Rekognition · Comprehend · Lambda · EC2  
 `Azure ML Studio`
 
-### **Tools & Others**
+### ✅ **Tools**
 `Git` · `Figma` · `Canva` · `Jupyter Notebook`
 
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-<a href="https://github.com/ERSYAF">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ERSYAF&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERSYAF&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ERSYAF&show_icons=true&theme=algolia&count_private=true&hide_border=false" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERSYAF&layout=compact&theme=algolia&hide_border=false" />
 </p>
 
 ---
@@ -76,7 +74,7 @@ Saya antusias mengeksplorasi teknologi modern dan membangun aplikasi bermanfaat 
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/ERSYAF/ERSYAF/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ERSYAF/ERSYAF/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
