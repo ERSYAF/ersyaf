@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=5BB9BB&size=28&center=true&vCenter=true&width=700&lines=Hello,+I'm+Era+Syafina+👋;Fresh+Graduate+IT+%7C+AI+Enthusiast+%7C+Web+Developer;Welcome+to+My+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=5BB9BB&size=28&center=true&vCenter=true&width=700&lines=Hello,+I'm+Era+Syafina+👋;IT+%7C+AI+Enthusiast+%7C+Web+Developer;Welcome+to+My+GitHub+Profile!" />
 </p>
 
 <h1 align="center">🌸 Era Syafina — Fresh Graduate IT</h1>
