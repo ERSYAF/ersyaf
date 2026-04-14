@@ -88,7 +88,7 @@ I am highly motivated to grow, learn, and contribute to impactful technology pro
 # 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAMEKAMU"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ERSYAF"/>
 </p>
 
 ---
@@ -103,9 +103,9 @@ I am highly motivated to grow, learn, and contribute to impactful technology pro
 
 # 📫 Contact
 
-* 📧 Email: your_email_here
-* 💼 LinkedIn: your_linkedin_here
-* 🐙 GitHub: [https://github.com/USERNAMEKAMU](https://github.com/USERNAMEKAMU)
+* 📧 Email: erasyafina25@gmail.com
+* 💼 LinkedIn: [https://www.linkedin.com/in/era-syafina-a2ba05276] (https://www.linkedin.com/in/era-syafina-a2ba05276)
+* 🐙 GitHub: [https://github.com/ERSYAF](https://github.com/ERSYAF)
 
 ---
 
